@@ -1,2 +1,2 @@
 # CS245
-数据科学基础
+Foundations of Data Science
